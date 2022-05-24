@@ -43,6 +43,7 @@ button{
 input.search-bar{
 
   border:none;
+  border-radius: 24px;
   outline:none;
   padding:0.5em 1em;
   border-radius: 10px;
@@ -56,19 +57,32 @@ input.search-bar{
 h1.temp{
 
   margin:0;
+  margin-bottom: 0.4em;
+  margin-left: 10px;
+}
+
+.flex{
+  display: flex;
+  align-items:center;
 }
 
 .description{
  font-size:30px;
+ margin-left: 10px;
 
 }
 
 .humidity{
 
   font-size: 30px;
+  margin-left: 10px;
 }
 
 .wind{
  font-size:30px;
+ margin-left: 10px;
 }
 
+h2.city{
+  margin-left: 10px;
+}
