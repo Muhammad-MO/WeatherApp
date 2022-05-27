@@ -72,6 +72,17 @@ h1.temp{
 
 }
 
+
+
+.weather:after{
+
+  visibility: visible;
+  content: loading;
+  color: white;
+  position: absolute;
+
+}
+
 .humidity{
 
   font-size: 30px;
