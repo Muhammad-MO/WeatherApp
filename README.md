@@ -6,8 +6,8 @@ This Project is a Weather App enabling the user to type in the city's name and g
 
 User starts off by keying in a city whose weather they want to find out
 
-![picture](/images/Screenshot2.png)
+![picture](/images/Screenshot2 2022.png)
 
 The WeatheApp retrievs the weather for that city which was keyed in
 
-![picture](/images/Screenshot3.png)
+![picture](/images/Screenshot3 2022.png)
