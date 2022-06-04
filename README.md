@@ -6,10 +6,9 @@
 <p>User starts off by keying in a city whose weather they want to find out</p>
 
 
-![picture](/images/scree                                        
-}nshot2.png)
+![picture](/images/screenshot2.png)
 
-The WeatheApp retrievs the weather for that city which was keyed in
+<p>The WeatheApp retrievs the weather for that city which was keyed in</p>
 
 ![picture](/images/screenshot3.png)
 
