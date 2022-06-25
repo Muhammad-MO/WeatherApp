@@ -6,7 +6,7 @@ h1> About this Project </h1>
 <p>User starts off by keying in a city whose weather they want to find out</p>
 
 
-![picture](/images/screenshot1.png)
+![picture](/images/screenshot2.png)
 
 <p>The WeatheApp retrievs the weather for that city which was keyed in</p>
 
